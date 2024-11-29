@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UMUTCAN\\OneDrive - Erhvervsakademi MidtVest\\Skrivebord\\csharp\\Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE1A829-5000-4DB7-8C9D-7B7DEF7486FD}|Client\\Client.csproj|c:\\users\\umutcan\\onedrive - erhvervsakademi midtvest\\skrivebord\\csharp\\client\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE1A829-5000-4DB7-8C9D-7B7DEF7486FD}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BE5636-0529-4687-B5E4-939117971CCA}|serverexample\\Server.csproj|c:\\users\\umutcan\\onedrive - erhvervsakademi midtvest\\skrivebord\\csharp\\client\\serverexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BE5636-0529-4687-B5E4-939117971CCA}|serverexample\\Server.csproj|solutionrelative:serverexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UMUTCAN\\OneDrive - Erhvervsakademi MidtVest\\Skrivebord\\csharp\\Client\\serverexample\\Program.cs",
+              "RelativeDocumentMoniker": "serverexample\\Program.cs",
+              "ToolTip": "C:\\Users\\UMUTCAN\\OneDrive - Erhvervsakademi MidtVest\\Skrivebord\\csharp\\Client\\serverexample\\Program.cs",
+              "RelativeToolTip": "serverexample\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:19:25.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UMUTCAN\\OneDrive - Erhvervsakademi MidtVest\\Skrivebord\\csharp\\Client\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\UMUTCAN\\OneDrive - Erhvervsakademi MidtVest\\Skrivebord\\csharp\\Client\\Client\\Program.cs*",
+              "RelativeToolTip": "Client\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:18:46.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
